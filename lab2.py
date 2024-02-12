@@ -7,4 +7,10 @@ def print_script_and_arguments():
     print('Script and Variables:', script_name, arguments)
 
 print_script_and_arguments()
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
 
